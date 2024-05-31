@@ -1,6 +1,6 @@
 # TextcSpeech
 
-TextcSpeech is a web application that converts text to speech using the Google Cloud Text-to-Speech API. 
+TextcSpeech is a web application that converts text to speech using the Google Cloud Text-to-Speech API. <br>  
 This project allows users to input text, convert it to speech, listen to the generated audio, and download it as an MP3 file.
 
 ## Features
@@ -27,7 +27,7 @@ This project allows users to input text, convert it to speech, listen to the gen
 
 ### 1. Clone the Repository
 
-git clone https://github.com/marouanebatrone/TextcSpeech.git
+git clone https://github.com/marouanebatrone/TextcSpeech.git <br>
 cd TextcSpeech
 
 ### 2. Install Dependencies
