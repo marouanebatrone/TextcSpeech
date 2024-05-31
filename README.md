@@ -27,7 +27,7 @@ This project allows users to input text, convert it to speech, listen to the gen
 
 ### 1. Clone the Repository
 
-git clone https://github.com/yourusername/TextcSpeech.git
+git clone https://github.com/marouanebatrone/TextcSpeech.git
 cd TextcSpeech
 
 ### 2. Install Dependencies
